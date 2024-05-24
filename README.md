@@ -5,6 +5,9 @@
 * ### 1st Prize 최우수상 수상 (2021.06.04)
 <br>
 
+### [발표 자료 pdf 링크](https://drive.google.com/file/d/1LHR70Glkyu664UaycHhWV7YlvvU7xQjF/view?usp=sharing)
+<br>
+
 ## 목차
 * ### data Load
 * ### data info & description
